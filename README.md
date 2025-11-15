@@ -1,2 +1,0 @@
-# batch-script
-batch script
